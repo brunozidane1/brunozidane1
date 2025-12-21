@@ -13,7 +13,7 @@
 ---
 
 ## 🚀 About Me
-🎓 **Business Information Technology Student (UTB)**  
+🎓 **Bacheor's in Business Information Technology Student (UTB)**  
 💻 **Full Stack Software Developer**  
 📍 **Kigali, Rwanda**  
 
@@ -72,15 +72,7 @@ I specialize in building scalable web applications, POS systems, RESTful APIs, a
 
 
 
-## 📊 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunozidane1&show_icons=true&theme=dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunozidane1&theme=dark" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunozidane1&layout=compact&theme=dark" />
-</p>
 
 ---
 
