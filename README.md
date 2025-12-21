@@ -70,14 +70,7 @@ I specialize in building scalable web applications, POS systems, RESTful APIs, a
 
 ---
 
-## 🛠️ Featured Projects
-- 💼 **StockSphere** – Smart POS System  
-- 🏨 **NEZERWA Apartment** – Booking Platform  
-- 💄 **Ziara Beauty** – Business Website  
-- 💬 **Chat System** – Friend Requests & Real-time Features  
-- 💳 **MTN MoMo API Integration** – PHP  
 
----
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
