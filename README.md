@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Business+Information+Technology+Student;Laravel+%7C+React+%7C+Node.js;Django+%7C+FastAPI+%7C+Spring+Boot;Building+Modern+Web+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Developer;Mobile+application+developer;Laravel+%7C+React+%7C+Node.js;Django+%7C+FastAPI+%7C+Spring+Boot;Building+Modern+Web+Applications" alt="Typing SVG" />
   </a>
 </p>
 
@@ -87,10 +87,10 @@ I specialize in building scalable web applications, POS systems, RESTful APIs, a
   <a href="mailto:hirwabrunozidane250@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-  <a href="tel:+250793042909">
+  <a href="tel:+250788487022">
     <img src="https://img.shields.io/badge/Call-25D366?logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://wa.me/250793042909">
+  <a href="https://wa.me/250788487022">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white" />
   </a>
 </p>
